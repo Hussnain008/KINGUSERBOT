@@ -120,7 +120,7 @@ class Branded(Client, PyTgCalls):
             await asyncio.sleep(1)
             await self.app.send_message(f"@botfather", f"@{self.bot.username}")
             await asyncio.sleep(1)
-            await self.app.send_message(f"@botfather", "🥀 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ✨")
+            await self.app.send_message(f"@botfather", "🥀 ❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐ 𝗨𝗦𝗘𝗥𝗕𝗢𝗧 ✨")
         except:
             pass
         try:
