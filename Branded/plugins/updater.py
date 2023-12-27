@@ -9,7 +9,7 @@ from pyrogram import *
 from pyrogram.types import *
 
 
-UPSTREAM_REPO = "https://github.com/WCGKING/KINGUSERBOTT"
+UPSTREAM_REPO = "https://github.com/Hussnain008/KINGUSERBOT"
 UPSTREAM_BRANCH = "Branded"
 
 
@@ -59,7 +59,7 @@ async def update_userbot(client, message):
     await message.edit("**🔄 Checking Updates ✨...**")
     update_avail = updater()
     if update_avail:
-        await message.edit("**🥳 New Update Available\nFor Branded-Userbot❗**")
+        await message.edit("**🥳 New Update Available\nFor ❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐-Userbot❗**")
         asyncio.sleep(0.5)
         await message.edit("**🔃 Updating ...**")
         os.system("git pull -f && pip3 install -r Installer")
@@ -67,14 +67,14 @@ async def update_userbot(client, message):
         os.system(f"kill -9 {os.getpid()} && python3 -m Branded")
         return
     else:
-        await message.edit(f"**🥀 Branded Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @BRANDEDKING82 ✨ ...**")
+        await message.edit(f"**🥀 Branded Userbot Already\nUpdated To Latest 🔥 ...\n\n💕 For Any Query › Contact\nTo » @iamsilent1 ✨ ...**")
 
 __NAME__ = "✨ ᴜᴘᴅᴀᴛᴇ 🌷"
 __MENU__ = f"""
 **🥀 𝗨𝗦𝗘 𝗧𝗛𝗜𝗦 𝗣𝗟𝗨𝗚𝗜𝗡 𝗧𝗢 𝗨𝗣𝗗𝗔𝗧𝗘
 𝗬𝗢𝗨𝗥 𝗕𝗥𝗔𝗡𝗗𝗘𝗗 𝗨𝗦𝗘𝗥𝗕𝗢𝗧.**
 
-**🇮🇳 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 :**
+**🇵🇰 𝗖𝗢𝗠𝗠𝗔𝗡𝗗 :**
 `.update` - 𝗨𝗣𝗗𝗔𝗧𝗘 𝗬𝗢𝗨𝗥𝗨 𝗦𝗘𝗥𝗕𝗢𝗧
 𝗧𝗢 𝗟𝗔𝗧𝗘𝗦𝗧 𝗩𝗘𝗥𝗦𝗜𝗢𝗡.
 """
