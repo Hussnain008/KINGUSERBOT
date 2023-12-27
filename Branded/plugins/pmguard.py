@@ -8,7 +8,7 @@ from .. import *
 from ..modules.data import approve, disapprove, is_approved
 
 MSG_PERMIT = """
-PM_SECURITY BRANDED-USERBOT
+PM_SECURITY ❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐-USERBOT
 
 {}
 await message.reply_photo="https://te.legra.ph/file/11cfa74175b590014bd16.jpg"
