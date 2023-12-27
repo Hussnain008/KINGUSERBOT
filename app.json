@@ -1,14 +1,14 @@
 {
-    "name": "Branded-Userbot",
+    "name": "❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐-Userbot",
     "logo": "https://telegra.ph/file/d96f6c6858129c59842e9.jpg",
-    "description": "Branded-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
+    "description": "❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐-Userbot is a powerful, advanced, multi-featured Telegram userbot.",
     "keywords": [
         "userbot",
         "musicbot",
         "videobot",
         "telegram"
     ],
-    "repository": "https://github.com/WCGKING/KINGUSERBOT",
+    "repository": "https://github.com/Hussnain008/KINGUSERBOT",
     "stack": "container",
     "env": {
         "API_ID": {
@@ -20,7 +20,7 @@
             "required": true
         },
         "STRING_SESSION": {
-            "description": "Enter Pyrogram v2 String Session @BRANDEDSTRINGSESSION_BOT",
+            "description": "Enter Pyrogram v2 String Session @Iamsilnetstringsession_bot",
             "required": true
         },
         "BOT_TOKEN": {
