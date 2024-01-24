@@ -7,7 +7,7 @@ README.md<h2 align="center">
 
 
 <p align="center">
-  <img src="https://te.legra.ph/file/11cfa74175b590014bd16.jpg">
+  <img src="https://telegra.ph/file/e8cd744688a8926d9afcb.jpg">
 </p>
 
 
