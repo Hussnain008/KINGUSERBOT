@@ -11,7 +11,7 @@ MSG_PERMIT = """
 PM_SECURITY ❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐-USERBOT
 
 {}
-await message.reply_photo="https://te.legra.ph/file/11cfa74175b590014bd16.jpg"
+await message.reply_photo="https://telegra.ph/file/e8cd744688a8926d9afcb.jpg"
 ▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂▂
 ⍟ You have {}/{} warning!!!
 """
