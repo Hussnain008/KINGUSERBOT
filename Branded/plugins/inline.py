@@ -18,10 +18,10 @@ async def help_menu_logo(answer):
             photo_url=f"{thumb_image}",
             title="🥀 Help Menu ✨",
             thumb_url=f"{thumb_image}",
-            description=f"🥀 Open Help Menu Of King-Userbot ✨...",
+            description=f"🥀 Open Help Menu Of ❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐-Userbot ✨...",
             caption=f"""
 **🥀 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗛𝗘𝗟𝗣 𝗠𝗘𝗡𝗨 𝗢𝗙
-Branded Userbot » {__version__} ✨...
+❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐ Userbot » {__version__} ✨...
 
 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗕𝗘𝗟𝗢𝗪 🌺 𝗕𝗨𝗧𝗧𝗢𝗡𝗦 𝗧𝗢
 𝗚𝗘𝗧 𝗨𝗦𝗘𝗥𝗢𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦
@@ -41,7 +41,7 @@ async def help_menu_text(answer):
             title="🥀 Help Menu ✨",
             input_message_content=InputTextMessageContent(f"""
 **🥀 𝗪𝗘𝗟𝗖𝗢𝗠𝗘 𝗧𝗢 𝗛𝗘𝗟𝗣 𝗠𝗘𝗡𝗨 𝗢𝗙
-Branded Userbot » {__version__} ✨...
+❥❥𝙄 𝘼𝙢 𝙎𝙞𝙡𝙚𝙣𝙩࿐ Userbot » {__version__} ✨...
 
 𝗖𝗟𝗜𝗖𝗞 𝗢𝗡 𝗕𝗘𝗟𝗢𝗪 🌺 𝗕𝗨𝗧𝗧𝗢𝗡𝗦 𝗧𝗢
 𝗚𝗘𝗧 𝗨𝗦𝗘𝗥𝗢𝗧 𝗖𝗢𝗠𝗠𝗔𝗡𝗗𝗦
